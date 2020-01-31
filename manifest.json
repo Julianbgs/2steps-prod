@@ -1,0 +1,19 @@
+{
+  "app.css": "/css/app.css?ff9eb25ef2604bb58ede",
+  "app.js": "/js/app.js?ff9eb25ef2604bb58ede",
+  "vendors.css": "/css/vendors.css?ff9eb25ef2604bb58ede",
+  "vendors.js": "/js/vendors.js?ff9eb25ef2604bb58ede",
+  "404.pug": "/404.html",
+  "fonts/fonts.sass": "/fonts/OpenSans-Regular-cfabf0c2.eot",
+  "images/apple-touch-icon.png": "/images/apple-touch-icon-2805113e.png",
+  "images/ava.jpg": "/images/ava-01218d62.jpg",
+  "images/index.sass": "/images/zoom-243729e8.png",
+  "images/converse.png": "/images/converse-4c8111eb.png",
+  "images/den.png": "/images/den-366e6546.png",
+  "images/favicon.ico": "/images/favicon-338abbb5.ico",
+  "images/health.png": "/images/health-5b50b25f.png",
+  "images/logo.png": "/images/logo-ecba6d83.png",
+  "images/spa.png": "/images/spa-d1da80f7.png",
+  "images/block-example.sass": "/images/square2-1bb5ab54.png",
+  "index.pug": "/index.html"
+}
