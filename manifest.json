@@ -1,8 +1,8 @@
 {
-  "app.css": "/css/app.css?fc8a147955e29766b68f",
-  "app.js": "/js/app.js?fc8a147955e29766b68f",
-  "vendors.css": "/css/vendors.css?fc8a147955e29766b68f",
-  "vendors.js": "/js/vendors.js?fc8a147955e29766b68f",
+  "app.css": "/css/app.css?7bbb117723c02bb1f864",
+  "app.js": "/js/app.js?7bbb117723c02bb1f864",
+  "vendors.css": "/css/vendors.css?7bbb117723c02bb1f864",
+  "vendors.js": "/js/vendors.js?7bbb117723c02bb1f864",
   "404.pug": "/404.html",
   "fonts/fonts.sass": "/fonts/OpenSans-Regular-cfabf0c2.eot",
   "images/apple-touch-icon.png": "/images/apple-touch-icon-2805113e.png",
@@ -15,5 +15,6 @@
   "images/logo.png": "/images/logo-ecba6d83.png",
   "images/spa.png": "/images/spa-d1da80f7.png",
   "images/block-example.sass": "/images/square2-1bb5ab54.png",
-  "index.pug": "/index.html"
+  "index.pug": "/index.html",
+  "mailer.php": "/mailer.php"
 }
